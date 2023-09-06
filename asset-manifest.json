@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FCCrandomquotemachinereact/static/css/main.7d109020.chunk.css",
+    "main.js": "/FCCrandomquotemachinereact/static/js/main.ef12536f.chunk.js",
+    "main.js.map": "/FCCrandomquotemachinereact/static/js/main.ef12536f.chunk.js.map",
+    "runtime-main.js": "/FCCrandomquotemachinereact/static/js/runtime-main.2193951d.js",
+    "runtime-main.js.map": "/FCCrandomquotemachinereact/static/js/runtime-main.2193951d.js.map",
+    "static/css/2.07203677.chunk.css": "/FCCrandomquotemachinereact/static/css/2.07203677.chunk.css",
+    "static/js/2.ca1c410a.chunk.js": "/FCCrandomquotemachinereact/static/js/2.ca1c410a.chunk.js",
+    "static/js/2.ca1c410a.chunk.js.map": "/FCCrandomquotemachinereact/static/js/2.ca1c410a.chunk.js.map",
+    "static/js/3.92ab4ac5.chunk.js": "/FCCrandomquotemachinereact/static/js/3.92ab4ac5.chunk.js",
+    "static/js/3.92ab4ac5.chunk.js.map": "/FCCrandomquotemachinereact/static/js/3.92ab4ac5.chunk.js.map",
+    "index.html": "/FCCrandomquotemachinereact/index.html",
+    "static/css/2.07203677.chunk.css.map": "/FCCrandomquotemachinereact/static/css/2.07203677.chunk.css.map",
+    "static/css/main.7d109020.chunk.css.map": "/FCCrandomquotemachinereact/static/css/main.7d109020.chunk.css.map",
+    "static/js/2.ca1c410a.chunk.js.LICENSE.txt": "/FCCrandomquotemachinereact/static/js/2.ca1c410a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2193951d.js",
+    "static/css/2.07203677.chunk.css",
+    "static/js/2.ca1c410a.chunk.js",
+    "static/css/main.7d109020.chunk.css",
+    "static/js/main.ef12536f.chunk.js"
+  ]
+}
